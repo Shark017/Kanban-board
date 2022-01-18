@@ -1,0 +1,25 @@
+div {
+  margin: 0 auto;
+  width: 200px;
+}
+#table {
+  border: 1px solid grey;
+}
+
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin-bottom: 30px;
+}
+.green {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  margin-bottom: 30px;
+}
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}

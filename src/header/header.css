@@ -1,0 +1,50 @@
+.header {
+    background-color: #0067A3;
+    height: 55px;
+    display: flex;
+    font-family: 'Roboto';
+}
+
+.header-main-text {
+    font-size: 28px;
+    color: white;
+    margin: 0 30px;
+    padding: 10px 0;
+}
+
+.user-logo {
+    background: white;
+    border-radius: 45px;
+    margin: 7px 0 0 700px;
+}
+
+.arrow-down-icon {
+    margin: 20px 0 0 5px;
+}
+
+.logo-menu {
+    background-color: white;
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 16.5px;
+    width: 134px;
+    height: 60px;
+    cursor: pointer;
+    position: absolute;
+    left: 1000px;
+    top: 40px;
+}
+
+.logo-menu > li {
+    margin-top: 10px;
+}
+
+.logo-menu > li:hover {
+    color: #0079BF;
+}
+
+.logo-menu-icon {
+    position: absolute;
+    left: 1090px;
+    top: 47px;
+}

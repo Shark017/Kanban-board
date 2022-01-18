@@ -1,0 +1,24 @@
+.footer {
+    background-color: #0067A3;
+    height: 55px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: white;
+}
+
+.footer-text {
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.active-tasks {
+    margin-left: 21px;
+}
+
+.finished-tasks{
+    margin-left: 36px;
+}
+
+.board-tasks {
+    margin-left: 583px;
+}
